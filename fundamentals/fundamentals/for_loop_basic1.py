@@ -26,7 +26,7 @@ while countdown > 2:
 
 lowNum = 2
 highNum = 15
-mult = 4
+multi = 4
 for flex in range(lowNum,highNum):
-    if (flex%mult==0):
+    if (flex%multi==0):
         print(flex)
